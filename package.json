@@ -1,0 +1,8 @@
+{
+  "name": "breakup-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/vassourita/breakup-bot",
+  "author": "Vinicius Vassão <vlviniciusguaruja7@gmail.com>",
+  "license": "MIT"
+}
