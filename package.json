@@ -4,5 +4,15 @@
   "main": "src/index.js",
   "repository": "https://github.com/vassourita/breakup-bot",
   "author": "Vinicius Vassão <vlviniciusguaruja7@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^16.4.12",
+    "dotenv": "^10.0.0",
+    "ts-node-dev": "^1.1.8",
+    "twitter-lite": "^1.1.0",
+    "typescript": "^4.3.5"
+  },
+  "scripts": {
+    "start": "ts-node-dev src/index.ts"
+  }
 }
